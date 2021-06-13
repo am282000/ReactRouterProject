@@ -1,0 +1,20 @@
+.contactstyle{
+    width: 100%;
+    height : 400px;
+    background: #d3d61f;
+    color:white;
+    justify-content: center;
+    align-items: center;
+}
+.contactstyle h2{
+    text-align: center;
+}
+.homestyle{
+    width: 100%;
+    height : 300px;
+    background: #13a4be;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
